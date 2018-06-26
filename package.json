@@ -1,0 +1,13 @@
+{
+  "name": "AWSAuth",
+  "version": "0.0.1",
+  "author": "Keijo Hyttinen",
+  "private": false,
+  "dependencies": {
+    "aws-sdk": "^2.100.0",
+    "bluebird": "^3.5.0",
+    "react": "15.4.1",
+    "react-native": "0.42.2",
+    "react-native-aws-cognito-js": "^0.0.6"
+  }
+}
